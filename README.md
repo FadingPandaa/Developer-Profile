@@ -1,21 +1,18 @@
-# K_MASOLE.SYS — Developer Portfolio
+<h1 align="center">Developer Portfolio</h1>
 
-A personal developer portfolio built with a cyber-industrial visual theme — neon accents, terminal-style UI, and hologram-inspired project displays. Built with PHP for modular page routing and vanilla CSS/JS for all interactivity.
+My personal developer portfolio built with a cyber-industrial visual theme, neon accents, terminal style UI, and hologram project displays. Built with PHP for modular page routing CSS/JS for all interactivity.
 
-**Live demo:** _add your deployed URL here_
-
-![Status](https://img.shields.io/badge/status-active-00f0ff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-
+---
 ## Features
 
-- **Terminal-style hero section** — landing page greeting rendered with a typewriter effect inside a mock terminal window
-- **Hologram project podiums** — interactive, hover-reactive project showcases with image popups
-- **Secure Transmission Portal** — a styled contact form with drag-and-drop file upload and a simulated upload progress bar
-- **Voltage Core theme switcher** — toggle between "Cyan Nominal" and "Red Voltage Overload" color themes, persisted via `localStorage`
+- **Terminal-style hero section** — landing page greeting rendered with a typewriter effect inside a mock terminal window.
+- **Hologram project podiums** — interactive, hover-reactive project showcases with image popups.
+- **Secure Transmission Portal** — a styled contact form with drag-and-drop file upload and a simulated upload prcentage counter.
+- **Voltage Core theme switcher** — toggle between "Cyan Nominal" and "Red Voltage Overload" color themes, persisted via the CORE_STATE button on the top right.
 - **Diagnostic status UI** — console-style status messages and a preloader on page load
 - **PHP-based routing** — a single entry point (`index.php`) includes the correct page based on a `page` query parameter
 
+---
 ## Tech Stack
 
 | Layer | Technology |
@@ -23,8 +20,7 @@ A personal developer portfolio built with a cyber-industrial visual theme — ne
 | Backend / Routing | PHP |
 | Structure & Styling | HTML5, custom CSS3 |
 | Interactivity | Vanilla JavaScript |
-| Fonts | [Fira Code](https://fonts.google.com/specimen/Fira+Code), [Orbitron](https://fonts.google.com/specimen/Orbitron), [Rajdhani](https://fonts.google.com/specimen/Rajdhani) (Google Fonts) |
-| Icons | [Font Awesome 6](https://fontawesome.com/) |
+
 
 ## Project Structure
 
@@ -48,18 +44,27 @@ Developer Profile/
 
 ## Pages
 
-- **Home** — hero introduction with typewriter animation and featured projects
-- **About** — skills, languages/frameworks, and tools/IDEs
-- **Projects** — showcase of featured builds, each linking to its GitHub repository
-- **Contact** — a form for sending a message, with optional file attachment
+- **Home** — hero introduction with typewriter animation and featured projects. Hover abouve the [USER_PROG] to view image.
+   <img width="952" height="506" alt="Homepage" src="https://github.com/user-attachments/assets/d78f4ed4-febc-4c64-a2ef-66d87c685c4b" />
+
+- **About** — Breif intro of myself, skills, languages/frameworks, tools/IDEs, and personal intrests.
+  <img width="954" height="503" alt="About" src="https://github.com/user-attachments/assets/7bceb4f7-5d69-4110-b53b-1012bf3a47a9" />
+
+- **Projects** — showcase of featured builds, each linking to its GitHub repository. Hover above the projects to view the project thumbnail.
+  <img width="960" height="505" alt="Projects" src="https://github.com/user-attachments/assets/05560ac8-b0f0-4c5e-85c8-7a8068267ca7" />
+
+- **Contact** — a form for sending a message, with the option to attachment a file.
+<img width="950" height="500" alt="Contact" src="https://github.com/user-attachments/assets/bdae434e-bffd-4b70-8f4b-4a0a825551ce" />
+
 
 ## Featured Projects
 
-- **[PennyWise](https://github.com/FadingPandaa/PennyWise-Budgeting-App)** — expense tracking app built with Kotlin/Java in Android Studio
-- **[Clinic Database System](https://github.com/FadingPandaa/Clinic-Database-System-CDS-)** — relational database system for clinical administration, built with MySQL/SSMS
-- **CyberBot** — a C# automation utility built in Visual Studio 2022
-- **[PASTIMES](https://github.com/FadingPandaa/PASTIMES)** — a social platform for event coordination, built with PHP, MariaDB, and HTML/CSS
+- **[PennyWise](https://github.com/FadingPandaa/PennyWise-Budgeting-App)** — expense tracking app built with Kotlin/Java in Android Studio.
+- **[Clinic Database System](https://github.com/FadingPandaa/Clinic-Database-System-CDS-)** — relational database system for clinical administration, built with MySQL/SSMS.
+- **CyberBot** — a C# automation built in Visual Studio 2022 to help people them know what cybersecurity is at a basic level.
+- **[PASTIMES](https://github.com/FadingPandaa/PASTIMES)** — a e-Commerce platform to buy, and sell clothes, built with PHP, MariaDB, and HTML/CSS.
 
+---
 ## Getting Started
 
 ### Prerequisites
@@ -92,7 +97,3 @@ Developer Profile/
 **Keabetswe Masole**
 - GitHub: [@FadingPandaa](https://github.com/FadingPandaa)
 - LinkedIn: [keabetswe-masole](https://linkedin.com/in/keabetswe-masole)
-
-## License
-
-No license specified yet. Consider adding one (e.g. [MIT](https://choosealicense.com/licenses/mit/)) if you intend for others to reuse this code.
