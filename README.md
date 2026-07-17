@@ -59,13 +59,13 @@ Developer Profile/
 
 ## Featured Projects
 
-- **[PennyWise](https://github.com/FadingPandaa/PennyWise-Budgeting-App)** — expense tracking app built with Kotlin/Java in Android Studio. (Collaboration with [@username](https://github.com/Amogelang-Dev))
+- **[PennyWise](https://github.com/FadingPandaa/PennyWise-Budgeting-App)** — expense tracking app built with Kotlin/Java in Android Studio. (Collaboration with [@Amo](https://github.com/Amogelang-Dev))
   
 - **[Clinic Database System](https://github.com/FadingPandaa/Clinic-Database-System-CDS-)** — relational database system for clinical administration, built with MySQL/SSMS.
   
 - **CyberBot** — a C# automation built in Visual Studio 2022 to help people them know what cybersecurity is at a basic level.
   
-- **[PASTIMES](https://github.com/FadingPandaa/PASTIMES)** — a e-Commerce platform to buy, and sell clothes, built with PHP, MariaDB, and HTML/CSS. (Collaboration with [@username](https://github.com/Amogelang-Dev))
+- **[PASTIMES](https://github.com/FadingPandaa/PASTIMES)** — a e-Commerce platform to buy, and sell clothes, built with PHP, MariaDB, and HTML/CSS. (Collaboration with [@Amo](https://github.com/Amogelang-Dev))
 
 ---
 ## Getting Started
